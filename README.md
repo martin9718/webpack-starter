@@ -1,4 +1,4 @@
-# webpack-configuracion-estandar
+# webpack-starter
 
 ## Note
 Rebuild node modules
